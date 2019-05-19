@@ -1,5 +1,5 @@
-hlsdl - project has been closed - please start to use different branch
-==============
+hlsdl
+=====
 
 This program converts .m3u8 playlists (using fragmented MPEG-2 Transport Streams) to a .ts video. It supports decryption of both AES-128 and SAMPLE-AES encryption.
 
@@ -14,7 +14,7 @@ Linux:
 `make && make install && make clean`
 
 Windows:
-https://github.com/samsamsam-iptvplayer/hlsdl/blob/master/msvc/BUID_WINDOWS.txt
+https://github.com/OpenVisionE2/hlsdl/blob/master/msvc/BUID_WINDOWS.txt
 
 
 Usage and Options
@@ -62,4 +62,3 @@ ToDo
 -----
 * support for Fragmented MPEG-4 playlist
 * support for EXT-X-MAP in the MPEG-2 Transport Streams playlist
-
